@@ -215,6 +215,15 @@ false && user
 true || user
 ```
 
+## 01 Exercice compter des occurences
+
+Soit la chaîne de caractères suivantes compter le nombre de i dans un premier, puis compter chacune des lettres
+
+```js
+let m = "mississippi"
+```
+
+
 ## Les chaînes de caractères Interpolation  <a class="anchor" id="section35"></a>
 
 Vous pouvez écrire des chaînes de caractères sur plusieurs lignes et insérer des expressions JS qui seront évaluées à l'aide de backquotes (accent grave).
